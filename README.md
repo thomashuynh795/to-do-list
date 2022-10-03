@@ -1,0 +1,1 @@
+In this React project I use Redux Toolkit to avoid props drilling. This is very powerful.
